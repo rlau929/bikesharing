@@ -5,9 +5,7 @@ If so, how?
 
 New York City and Des Moines have the same amount of McDonald stores, each have 11 McDonald stores. However, there are more McDonald stores in NY than in IA. There is a total of 26 stores in NY and 20 stores in IA. Additionally, the stores in NY are relatively closer compared to IA. Since there are more stores within closer distance in NY, people are more willing to ride bikes in NY compared to IA. 
 
-People are more willing to bike in NY than IA because there are more McDonald stores to rest and eat. In IA, McDonald stores are far from each other; however, in NY, stores are closer together allowing bikers to finding rest stops easier.  
-
-
+People are more willing to bike in NY than IA because there are more McDonald stores to rest and eat. In IA, McDonald stores are far from each other; however, in NY, stores are closer together allowing bikers to frequently stop at McDonalds. In IA, the travel distance and travel time for bike sharing will be shorter compared to NY. Lastly, since there are more McDonalds in NY, people are more willing to travel farther in the city.
 
 ## Independent Research
 
