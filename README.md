@@ -8,8 +8,11 @@ New York City and Des Moines have the same amount of McDonald stores, each have 
 Since there are more McDonalds in NY, people are less likely to travel farther in the city. Since McDonalds is far apart in IA, people have a higher chance of exploring the city. Nevertheless, in IA, the travel distance and travel time for bike sharing will be longer compared to NY because McDonald stores are more far apart than NY. As a result, more bikers will use the bike sharing program more often in IA because McDonalds store are so far apart, it is necessary to use bikes; whereas in NYC, people can walk to the nearest McDonalds rather than bike. Therefore, since more users are using the bike sharing program in IA, there will be more revenue.
 
 ## 3 Supplementary Information
-[Link to City Comparison of Des Moines, IA vs New York City, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/climate)
+[Link to Rainfall Comparison of Des Moines, IA vs New York City, NY](https://www.bestplaces.net/compare-cities/des_moines_ia/new_york_ny/climate)
 According to the website, New York City has 47% more rainfall compared to Des Moines at 36%. If there is higher rainfall, chances of people biking might decrease since most people prefer not to ride a bike in the rain.
+
+[Link to Things to Know About Des Moines](https://www.sparefoot.com/moving/moving-to-des-moines-ia/20-things-you-need-to-know-before-moving-to-des-moines/)
+According to the website, #3 on the list is "It's cyclist heaven." which means there is a lot of cyclist activity in the city from the bicycle touring event called [RAGBRAI](https://ragbrai.com/) which consists of about 550 miles of trail.
 
 
 ## Independent Research
