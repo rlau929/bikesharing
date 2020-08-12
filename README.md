@@ -12,7 +12,10 @@ Since there are more McDonalds in NY, people are less likely to travel farther i
 According to the website, New York City has 47% more rainfall compared to Des Moines at 36%. If there is higher rainfall, chances of people biking might decrease since most people prefer not to ride a bike in the rain.
 
 [(Link to Things to Know About Des Moines)](https://www.sparefoot.com/moving/moving-to-des-moines-ia/20-things-you-need-to-know-before-moving-to-des-moines/)
-According to the website, #3 on the list is "It's cyclist heaven." which means there is a lot of cyclist activity in the city from the bicycle touring event called [RAGBRAI](https://ragbrai.com/) which consists of about 550 miles of trail.
+According to the website, #3 on the list is "It's cyclist heaven." There is a higher frequency of cyclist activity in Des Moines from the bicycle touring event called [RAGBRAI](https://ragbrai.com/) which consists of about 550 miles of trail.
+
+[(Link to Best Places to Ride a Bicycle)](https://www.bicycling.com/culture/a23676188/best-bike-cities-2018/)
+In the article, Des Moines is placed #38 on the list of best places to ride a bicycle. The city has been making changes to provide better and safer routes for bicyclists. Additionally, Des Moines hired a bike and pedestrian transportation manager. As a result, biking is becoming more popular and will provide more users in the bike sharing program.
 
 
 ## Independent Research
