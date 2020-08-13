@@ -30,4 +30,4 @@ According to the website, the average commute in NYC is 22 minutes longer than D
 
 
 ### Tableau Dashboard
-[Link to Tableau Dashboard](https://public.tableau.com/profile/robert.lau6163#!/vizhome/Bike_Sharing_Challenge/ChallengeBikeSharingandMcDonalds?publish=yes)
+[Link to Tableau Dashboard](https://public.tableau.com/shared/3MBZ4ZPH4?:display_count=y&:origin=viz_share_link)
