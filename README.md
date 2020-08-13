@@ -29,5 +29,5 @@ There are many promotions going on at McDonalds during the summer. The summer pr
 According to the website, the average commute in NYC is 22 minutes longer than Des Moines. In this case, more people are willing to travel by bike than by car since commute is much shorter. To most people, the short distance might not justify driving a car.
 
 
-### Tableau Dashboard.
+### Tableau Dashboard
 [Link to Tableau Dashboard](https://public.tableau.com/profile/robert.lau6163#!/vizhome/Bike_Sharing_Challenge/ChallengeBikeSharingandMcDonalds?publish=yes)
